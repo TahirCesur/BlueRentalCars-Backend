@@ -20,8 +20,6 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 @AllArgsConstructor
-@RestController
-@CrossOrigin("http://localhost:8081")
 @RequestMapping(path = "/files")
 public class FileDBController {
 

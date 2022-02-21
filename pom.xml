@@ -12,6 +12,7 @@
     <artifactId>car_rental</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>car_rental</name>
+
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
@@ -83,6 +84,18 @@
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
             <version>2.9.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 
